@@ -1,0 +1,32 @@
+/** {*/
+    /*box-sizing: padding-box;*/
+    /*margin: 0;*/
+    /*padding: 0;*/
+/*}*/
+
+/*.chalkboard {*/
+    /*background-image: url("../images/chalkboard.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    /*width: 100vw;*/
+    /*height: 100vh;*/
+/*}*/
+
+/*.form {*/
+    /*margin: auto;*/
+    /*width: 50%;*/
+    /*padding: 20% 0;*/
+/*}*/
+
+.float {
+    float: left;
+    margin: 20px
+}
+
+.correct {
+    background-color: green
+}
+
+.incorrect {
+    background-color: red
+}
